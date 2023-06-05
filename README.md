@@ -9,6 +9,7 @@ CLF4SRec in /recbole/model/sequential_recommender/clf4srec.py
 We provide the script main_run.py to run the model
 ## Citation
 If you use this code, please cite the pape
+
 @article{ZHANG2023110481,
 title = {Contrastive Learning with Frequency Domain for Sequential Recommendation},
 journal = {Applied Soft Computing},
