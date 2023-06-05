@@ -10,7 +10,7 @@ We provide the script main_run.py to run the model
 ## Citation
 If you use this code, please cite the pape
 ```
-@article{ZHANG2023110481,
+@article{CLF4SRec,
 title = {Contrastive Learning with Frequency Domain for Sequential Recommendation},
 journal = {Applied Soft Computing},
 pages = {110481},
